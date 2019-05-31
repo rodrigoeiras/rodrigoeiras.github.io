@@ -2,7 +2,7 @@
 id: 84
 title: Como deixar o editor VIM colorido (Highlighting)
 date: 2010-05-05T10:29:08-03:00
-author: @rsveiras
+author: Rodrigo Eiras
 layout: post
 guid: http://www.rodrigoeiras.eti.br/?p=84
 permalink: /2010/05/05/como-deixar-o-editor-vim-colorido-highlighting/
