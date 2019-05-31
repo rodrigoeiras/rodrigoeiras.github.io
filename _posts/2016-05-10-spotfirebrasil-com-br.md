@@ -1,6 +1,6 @@
 ---
 id: 502
-title: SpotfireBrasil.Com.Br
+title: "SpotfireBrasil.Com.Br"
 author: Rodrigo Eiras
 excerpt_separator: "<!--more-->"
 categories:
