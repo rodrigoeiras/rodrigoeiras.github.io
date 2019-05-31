@@ -1,8 +1,7 @@
 ---
 id: 514
-title: "E-reader LEV, da Saraiva"
-excerpt_separator: "<!--more-->"
-date: 2016-05-29T22:42:58-03:00
+title: E-reader LEV, da Saraiva
+author: Rodrigo Eiras
 categories:
   - E-Book
   - Geral
