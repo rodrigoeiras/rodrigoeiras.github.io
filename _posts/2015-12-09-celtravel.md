@@ -20,7 +20,7 @@ Fui a New York nesse último mês e como sempre existe a preocupação do uso de
 Dessa última vez, eu optei por fazer diferente. Pesquisei alguns serviços de mobilidade fora do país e cheguei ao CelTravel.
 </p>
 <img class="aligncenter" src="https://i1.wp.com/www.inteligenciamovel.com.br/wp-content/uploads/2013/12/celtravel.png?resize=478%2C109" alt="" width="478" height="109" data-recalc-dims="1" />
-</p>
+
 <p style="text-align: justify;">
 É uma empresa que funciona no Rio de Janeiro e trabalham oferecendo cartões SIM de telefonia móvel internacional. Os planos de uso nos EUA incluem dados ilimitados durante todo o tempo que você estiver fora do país por US $3,99 ao dia.
 </p>
