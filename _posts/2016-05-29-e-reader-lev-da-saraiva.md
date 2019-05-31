@@ -4,8 +4,6 @@ title: E-reader LEV, da Saraiva
 date: 2016-05-29T22:42:58-03:00
 author: @rsveiras
 layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=514
-permalink: /2016/05/29/e-reader-lev-da-saraiva/
 categories:
   - E-Book
   - Geral
