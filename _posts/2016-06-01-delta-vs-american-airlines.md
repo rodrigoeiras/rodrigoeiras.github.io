@@ -2,6 +2,7 @@
 id: 517
 title: "Delta vs American Airlines"
 author: Rodrigo Eiras
+excerpt_separator: "<!--more-->"
 categories:
   - Geral
   - Viagens!
@@ -18,6 +19,8 @@ tags:
 <p style="text-align: justify;">
   Na primeira, voei de AA e na segunda de Delta. Existem N artigos em blogs especializados em viagens no entanto a minha intenção aqui e falar da minha experiência nas duas companhias.
 </p>
+
+<!--more-->
 
 <p style="text-align: justify;">
   Na viagem para Houston, o vôo era com origem o aeroporto do galeão no Rio de Janeiro (GIG) e o destino final o aeroporto intercontinental de Houston (IAH). No total, foram 14 horas de viagem com uma conexão no aeroporto de Miami (MIA). A aeronave foi o novíssimo Boeing 777-300ER. Bons recursos de entretenimento em uma central multimídia individual moderna. Refeição simples no jantar, já que os vôos no Brasil saem por volta de 21h. Era possível escolher entre uma massa e um picadinho de frango. Bebidas de todos os tipos, desde água a vinho. Um ponto negativo foi o espaçamento entre poltronas. Para mim que tenho 1,92m de altura, ficou um pouco desconfortável.
