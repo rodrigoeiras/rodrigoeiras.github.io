@@ -1,12 +1,7 @@
 ---
 id: 1
 title: Estreando!
-date: 2006-11-21T16:42:49-03:00
 author: Rodrigo Eiras
-layout: post
-permalink: /2006/11/21/hello-world/
-aktt_notify_twitter:
-  - 'yes'
 categories:
   - Geral
 tags:
