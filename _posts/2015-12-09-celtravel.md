@@ -2,6 +2,7 @@
 id: 497
 title: "CelTravel"
 author: Rodrigo Eiras
+permalink: /2015/12/09/celtravel/
 categories:
   - Geral
 tags:
