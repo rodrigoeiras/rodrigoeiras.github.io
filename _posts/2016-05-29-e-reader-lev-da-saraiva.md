@@ -2,7 +2,7 @@
 id: 514
 title: E-reader LEV, da Saraiva
 date: 2016-05-29T22:42:58-03:00
-author: @rodrigoeiras
+author: Rodrigo Eiras
 layout: post
 categories:
   - E-Book
