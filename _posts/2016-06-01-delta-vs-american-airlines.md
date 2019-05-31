@@ -4,8 +4,6 @@ title: Delta vs American Airlines
 date: 2016-06-01T07:20:42-03:00
 author: Eiras
 layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=517
-permalink: /2016/06/01/delta-vs-american-airlines/
 categories:
   - Geral
   - Viagens!
