@@ -1,7 +1,8 @@
 ---
 id: 514
-title: E-reader LEV, da Saraiva
+title: "E-reader LEV, da Saraiva"
 author: Rodrigo Eiras
+permalink: /2016/05/29/e-reader-lev-da-saraiva/
 categories:
   - E-Book
   - Geral
