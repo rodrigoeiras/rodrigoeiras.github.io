@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Rodrigo <i>Eiras</i>"
+  name   : "Rodrigo <u>Eiras</u>"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Big Data, Analytics, Networks. STEM Enthusiast! (also love beers)"
   links:
