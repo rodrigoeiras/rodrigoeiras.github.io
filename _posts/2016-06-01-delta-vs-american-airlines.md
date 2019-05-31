@@ -2,6 +2,7 @@
 id: 517
 title: "Delta vs American Airlines"
 author: Rodrigo Eiras
+permalink: /2016/06/01/delta-vs-american-airlines/
 excerpt_separator: "<!--more-->"
 categories:
   - Geral
