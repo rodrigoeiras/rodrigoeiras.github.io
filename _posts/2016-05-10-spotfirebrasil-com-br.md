@@ -2,6 +2,7 @@
 id: 502
 title: "SpotfireBrasil.Com.Br"
 author: Rodrigo Eiras
+permalink: /2016/05/10/spotfirebrasil-com-br/
 excerpt_separator: "<!--more-->"
 categories:
   - BI
