@@ -3,8 +3,6 @@ id: 469
 title: "Como é tirar o visto americano"
 date: 2015-09-28T00:19:17-03:00
 author: Rodrigo Eiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=469
 permalink: /2015/09/28/como-e-tirar-o-visto-americano/
 categories:
   - Geral
