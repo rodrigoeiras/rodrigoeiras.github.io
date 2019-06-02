@@ -2,14 +2,8 @@
 id: 283
 title: 'Dica: Removendo o ícone de &#8220;Hot Swap&#8221; ou &#8220;Remoção Segura de Dispositivo&#8221; de máquinas virtuais hospedadas em VMware ESXi'
 date: 2012-09-19T12:40:16-03:00
-author: @rsveiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=283
+author: Rodrigo Eiras
 permalink: /2012/09/19/dica-removendo-o-icone-de-hot-swap-ou-remocao-segura-de-dispositivo-de-maquinas-virtuais-hospedadas-em-vmware-esxi/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
 categories:
   - Redes / Sistemas
   - Virtualização
