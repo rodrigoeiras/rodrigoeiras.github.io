@@ -12,23 +12,24 @@ tags:
 ---
 <p style="text-align: justify;">
 Então, nós nunca nos preocupamos em fazer backup de ACL&#8217;s até o dia em que precisamos migrar o servidor por qualquer motivo. Não é? Pois bem, não foi diferente no meu caso.
-
-
+</p>
+<p style="text-align: justify;">
 Eu já tinha pensado que iria ter que refazer todas as ACL&#8217;s manualmente e resolvi pesquisar. SIM! Existe uma forma de fazer backup e restore das mesmas, e é bem simples.
-
+</p>
 
 * Exportando as ACL&#8217;s para um arquivo texto:
 
 > spitfire:/# getfacl -R /home > /root/home.acl
 
-
+<p style="text-align: justify;">
 O comando acima, exporta as ACL&#8217;s aplicadas no /home para um arquivo texto chamando &#8220;home.acl&#8221; dentro de /root.
-
+</p>
 
 * Depois, basta usar o comando para restaurar a partir do arquivo:
 
 > spitfire:/# setfacl &#8211;restore /root/home.acl
 
+<p style="text-align: justify;">
 Reparem que, o comando de &#8220;restore&#8221; deve ser feito no mesmo local de onde foi o backup, no meu caso na raiz (/).
 
 
