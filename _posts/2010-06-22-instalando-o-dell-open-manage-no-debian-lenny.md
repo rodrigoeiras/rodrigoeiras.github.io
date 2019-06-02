@@ -17,7 +17,7 @@ tags:
 ---
 Quem trabalha com servidores Dell já reparou que o _Open Manage Server Administrator_ somente está disponível para os ambientes homologados pela Dell, no caso, o Microsoft Windows Server, o Novell SUSE Enterprise Linux e o Red Hat Enterprise Linux.
 
-Pois bem, mas eu trabalho com Debian, como eu faço? �? possível?  
+Pois bem, mas eu trabalho com Debian, como eu faço? É possível?  
 Sim, perfeitamente possível. Abaixo, você poderá ver alguns passos simples para poder colocá-lo funcionando em seu servidor.
 
 Suponho que você já esteja com seu Debian 5 &#8220;Lenny&#8221; instalado e funcionando.  
@@ -95,4 +95,4 @@ Se tudo ocorreu corretamente na sua instalação do Open Manage, acesse da segui
 Pronto, acesse com o usuário _root_ e a devida _senha_ e veja as configurações do seu servidor.  
 []&#8217;s!
 
-[media-credit id=5 align=&#8221;aligncenter&#8221; width=&#8221;468&#8243;]<a href="http://www.rodrigoeiras.eti.br/2010/06/22/instalando-o-dell-open-manage-no-debian-lenny/dell/" rel="attachment wp-att-173"><img src="https://i2.wp.com/www.rodrigoeiras.eti.br/wp-content/uploads/2010/06/dell.jpg?resize=468%2C304" alt="" title="dell" width="468" height="304" class="size-full wp-image-173" srcset="https://i2.wp.com/www.rodrigoeiras.eti.br/wp-content/uploads/2010/06/dell.jpg?w=468 468w, https://i2.wp.com/www.rodrigoeiras.eti.br/wp-content/uploads/2010/06/dell.jpg?resize=300%2C194 300w" sizes="(max-width: 468px) 100vw, 468px" data-recalc-dims="1" /></a>[/media-credit]
+<img src="https://i2.wp.com/www.rodrigoeiras.eti.br/wp-content/uploads/2010/06/dell.jpg?resize=468%2C304" alt="" title="dell" width="468" height="304" class="size-full wp-image-173" srcset="https://i2.wp.com/www.rodrigoeiras.eti.br/wp-content/uploads/2010/06/dell.jpg?w=468 468w, https://i2.wp.com/www.rodrigoeiras.eti.br/wp-content/uploads/2010/06/dell.jpg?resize=300%2C194 300w" sizes="(max-width: 468px) 100vw, 468px" data-recalc-dims="1" />
