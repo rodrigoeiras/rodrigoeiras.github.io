@@ -16,6 +16,7 @@ tags:
 ---
 <p style="text-align: justify;">
 O SPF (Sender Police Framework) é uma tecnologia que informa a outros servidores de email quais endereços IP estão autorizados a enviar mensagens com seu domínio, evitando assim que outros servidores praticantes de SPAM, possam forjar e-mails em seu nome.
+</p>
 
 Não tratarei aqui em como publicar um registro SPF no DNS, mas posso pensar nisso para um próximo post.  
 Para saberem mais sobre o SPF, sigam em: <http://www.antispam.br/admin/spf/>
