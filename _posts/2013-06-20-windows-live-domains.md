@@ -1,10 +1,8 @@
 ---
 id: 396
-title: Windows Live Domains
+title: "Windows Live Domains"
 date: 2013-06-20T16:56:06-03:00
-author: @rsveiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=396
+author: Rodrigo Eiras
 permalink: /2013/06/20/windows-live-domains/
 categories:
   - Geral
