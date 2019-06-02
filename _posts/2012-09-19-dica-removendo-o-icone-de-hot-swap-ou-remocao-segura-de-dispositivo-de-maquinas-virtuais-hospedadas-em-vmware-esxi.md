@@ -22,8 +22,7 @@ tags:
 
 <div class="mceMediaCredit mceTemp mceIEcenter" draggable="">
   <span class="media-credit-mce aligncenter" id="5" style="width: 222px;"><span class="media-credit-dt"><a href="http://www.rodrigoeiras.eti.br/2012/09/19/dica-removendo-o-icone-de-hot-swap-ou-remocao-segura-de-dispositivo-de-maquinas-virtuais-hospedadas-em-vmware-esxi/hotswap/" rel="attachment wp-att-284"><img class="size-full wp-image-284" title="hotswap" alt="" src="https://i0.wp.com/www.rodrigoeiras.eti.br/wp-content/uploads/2012/09/hotswap.jpg?resize=212%2C178" width="212" height="178" data-recalc-dims="1" /></a></span>
-</div>
-
+</br>
 &nbsp;
 
 Para remover o ícone, faça o procedimento através do vSphere Client.
