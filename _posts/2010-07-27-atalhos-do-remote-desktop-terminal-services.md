@@ -15,18 +15,19 @@ tags:
 <p style="text-align: justify;">
 Alguns atalhos que podem quebrar o galho na hora de usar um serviço de terminal do Windows, principalmente quando acontece algum problema e sua área de trabalho não é carregada, necessitando do famoso ctrl+alt+del.
 
+</p>
 Segue:
 
-**Ctrl + Alt + End &#8211;** Envia o comando de Ctrl + Alt + Del ao computador remoto.
+1. **Ctrl + Alt + End &#8211;** Envia o comando de Ctrl + Alt + Del ao computador remoto.
+
 
 Outras combinações interessantes:
 
-**Alt + Page Up** &#8211; Alterna entre programas (Alt + Tab é o comando local)
 
-**Ctrl + Alt + End** &#8211; Mostra o Gerenciador de Tarefas (Ctrl + Shift + Esc é o comando local)
+2. **Alt + Page Up** &#8211; Alterna entre programas (Alt + Tab é o comando local)
 
-**Alt + Home** �?? Ativa o menu Iniciar no computador remoto
+3. **Ctrl + Alt + End** &#8211; Mostra o Gerenciador de Tarefas (Ctrl + Shift + Esc é o comando local)
 
-**Ctrl + Alt +** (**+**) / (**&#8211;**) &#8211; &#8220;Menos&#8221; tira um screenshot da janela ativa e &#8220;Mais&#8221; tira um screenshot de toda a área de trabalho remota.
+4. **Alt + Home** �?? Ativa o menu Iniciar no computador remoto
 
-</p>
+5. **Ctrl + Alt +** (**+**) / (**&#8211;**) &#8211; &#8220;Menos&#8221; tira um screenshot da janela ativa e &#8220;Mais&#8221; tira um screenshot de toda a área de trabalho remota.
