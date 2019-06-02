@@ -102,7 +102,5 @@ autoresponse -E usuario@seudominio.com.br
 
 autoresponse -D usuario@seudominio.com.br
 
-�? isso, aqui no nosso ambiente tem funcionado perfeitamente.  
+É isso, aqui no nosso ambiente tem funcionado perfeitamente.  
 Sugiro que vocês criem uma seção no site de vocês, junto as configurações de POP3/IMAP/SMTP uma seção explicando o funcionamento do recurso.
-
-[]&#8217;s!
