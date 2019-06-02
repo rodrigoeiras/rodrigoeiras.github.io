@@ -2,15 +2,8 @@
 id: 208
 title: 'Habilitando checagem de SPF no Postfix &#8211; Debian &#8220;Lenny&#8221;'
 date: 2010-07-02T15:58:51-03:00
-author: @rsveiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=208
+author: Rodrigo Eiras
 permalink: /2010/07/02/habilitando-checagem-de-spf-no-postfix-debian-lenny/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
 categories:
   - Linux
   - Postfix
@@ -21,6 +14,7 @@ tags:
   - postfix
   - spf
 ---
+<p style="text-align: justify;">
 O SPF (Sender Police Framework) é uma tecnologia que informa a outros servidores de email quais endereços IP estão autorizados a enviar mensagens com seu domínio, evitando assim que outros servidores praticantes de SPAM, possam forjar e-mails em seu nome.
 
 Não tratarei aqui em como publicar um registro SPF no DNS, mas posso pensar nisso para um próximo post.  
@@ -39,7 +33,7 @@ Adicione em **smtpd\_recipient\_restrictions**
 > check\_policy\_service unix:private/policy
 
 Insira a linha acima antes de regra de reject\_unauth\_destination, ou você poderá ter um open relay.  
-Em seguida, abra o arquivo: 
+Em seguida, abra o arquivo:
 
 > vim /etc/postfix/master.cf
 
