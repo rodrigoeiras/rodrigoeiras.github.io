@@ -2,14 +2,8 @@
 id: 272
 title: 'Migrações: O desafio&#8230;'
 date: 2012-08-28T10:14:16-03:00
-author: @rsveiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=272
+author: Rodrigo Eiras
 permalink: /2012/08/28/migracoes-o-desafio/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
 categories:
   - Active Directory
   - Exchange
