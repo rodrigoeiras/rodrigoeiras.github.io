@@ -2,14 +2,8 @@
 id: 273
 title: 'OpenLDAP no Debian 6 &#8211; &#8220;Squeeze&#8221;'
 date: 2011-05-03T12:08:45-03:00
-author: @rsveiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=273
+author: Rodrigo Eiras
 permalink: /2011/05/03/openldap-no-debian-6-squeeze/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
 categories:
   - Linux
   - Redes / Sistemas
@@ -47,22 +41,22 @@ tags:
   <p style="text-align: justify;">
     Bom, feito isso, basta gerar a config (o comando é executado de dentro de /etc/ldap):
   </p>
-  
+
   <p style="text-align: justify;">
     slaptest -f slapd.conf -F slapd.d
   </p>
-  
+
   <p style="text-align: justify;">
     chown -R openldap.openldap /etc/ldap
   </p>
-  
+
   <p style="text-align: justify;">
     <p style="text-align: justify;">
       []&#8217;s
     </p>
-    
+
     <p style="text-align: justify;">
     </p>
-    
+
     <p>
     </p>
