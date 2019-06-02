@@ -2,9 +2,7 @@
 id: 337
 title: 'Dica: Symantec Backup Exec 2010 R3 &#8211; Como fazer backup`s incrementais com sucesso de ambientes Linux/Unix'
 date: 2012-12-06T13:36:19-03:00
-author: @rsveiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=337
+author: Rodrigo Eiras
 permalink: /2012/12/06/dica-symantec-backup-exec-2010-r3-como-fazer-backups-incrementais-com-sucesso-de-ambientes-linuxunix/
 categories:
   - Backup
@@ -34,11 +32,11 @@ tags:
   <p style="text-align: justify;">
     É isso.
   </p>
-  
+
   <p style="text-align: justify;">
     Abs!
   </p>
-  
+
   <p style="text-align: justify;">
     <p>
     </p>
