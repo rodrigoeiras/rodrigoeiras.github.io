@@ -3,11 +3,7 @@ id: 17
 title: Papai Noel Filho da Puta
 date: 2007-12-10T16:48:27-03:00
 author: Rodrigo Eiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=17
 permalink: /2007/12/10/papai-noel-filho-da-puta/
-aktt_notify_twitter:
-  - 'yes'
 categories:
   - Geral
 tags:
@@ -33,4 +29,4 @@ Espero que quando você estiver no seu trenó, aquela bosta vire com você dentr
 Isto é um aviso. Daqui para frente, você vai ficar sabendo o que é um garoto mal educado, doido para se vingar.
 
 &#8212;-  
-KKKKKK! �? velha mais é sempre boa! [:D]
+KKKKKK! É velha mais é sempre boa! [:D]

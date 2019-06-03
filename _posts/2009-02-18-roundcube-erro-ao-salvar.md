@@ -3,12 +3,7 @@ id: 26
 title: 'RoundCube &#8211; Erro ao Salvar'
 date: 2009-02-18T18:30:32-03:00
 author: Rodrigo Eiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=26
 permalink: /2009/02/18/roundcube-erro-ao-salvar/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
 categories:
   - Redes / Sistemas
 tags:

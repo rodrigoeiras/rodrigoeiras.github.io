@@ -3,12 +3,7 @@ id: 52
 title: Reorganizando
 date: 2010-04-26T17:26:18-03:00
 author: Rodrigo Eiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=52
 permalink: /2010/04/26/reorganizando/
-aktt_notify_twitter:
-  - 'no'
-  - 'no'
 categories:
   - Geral
 tags:

@@ -3,14 +3,7 @@ id: 29
 title: Mediawiki
 date: 2009-08-16T19:00:55-03:00
 author: Rodrigo Eiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=29
 permalink: /2009/08/16/mediawiki/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
 categories:
   - Geral
 tags:

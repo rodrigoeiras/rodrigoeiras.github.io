@@ -3,11 +3,7 @@ id: 24
 title: Sun Web Proxy Server
 date: 2008-12-15T10:08:53-03:00
 author: Rodrigo Eiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=24
 permalink: /2008/12/15/sun-web-proxy-server/
-aktt_notify_twitter:
-  - 'yes'
 categories:
   - Redes / Sistemas
 tags:

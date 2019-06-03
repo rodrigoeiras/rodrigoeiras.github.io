@@ -3,12 +3,7 @@ id: 28
 title: 'I Don&#8217;t know Why. (Moony) / Tradução'
 date: 2009-07-09T20:51:24-03:00
 author: Rodrigo Eiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=28
 permalink: /2009/07/09/i-dont-no-why-moony/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
 categories:
   - Geral
 tags:
