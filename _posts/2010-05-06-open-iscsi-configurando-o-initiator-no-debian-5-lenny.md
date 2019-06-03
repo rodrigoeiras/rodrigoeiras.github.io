@@ -2,15 +2,8 @@
 id: 91
 title: 'Open-iSCSI &#8211; Configurando o &#8220;Initiator&#8221; no Debian 5 &#8211; Lenny'
 date: 2010-05-06T13:44:04-03:00
-author: @rsveiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=91
+author: Rodrigo Eiras
 permalink: /2010/05/06/open-iscsi-configurando-o-initiator-no-debian-5-lenny/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
 categories:
   - Linux
   - Redes / Sistemas
