@@ -2,15 +2,8 @@
 id: 134
 title: 'PHP5 e MS SQL Server &#8211; Configurando Acesso via ODBC no Debian 5 &#8211; &#8220;Lenny&#8221;'
 date: 2010-06-10T14:42:30-03:00
-author: @rsveiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=134
+author: Rodrigo Eiras
 permalink: /2010/06/10/php5-e-ms-sql-server-configurando-acesso-via-odbc-no-debian-5-lenny/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
 categories:
   - Linux
 tags:
@@ -35,7 +28,7 @@ Adicione o seguinte conteúdo ao arquivo:
 > [TDS]  
 > Description = FreeTDS MSSQL Driver for Linux Debian 5 &#8211; &#8220;Lenny&#8221;  
 > Driver = /usr/lib/odbc/libtdsodbc.so  
-> Setup = /usr/lib/odbc/libtdsS.so 
+> Setup = /usr/lib/odbc/libtdsS.so
 
 Feito o passo acima, vamos registrar o ODBC no sistema.
 
@@ -52,27 +45,27 @@ Com o seguinte conteúdo:
 > <div id="_mcePaste">
 >   [DSN]
 > </div>
-> 
+>
 > <div id="_mcePaste">
 >   Description     = Teste de ODBC &#8211; FreeTDS
 > </div>
-> 
+>
 > <div id="_mcePaste">
 >   Driver          = TDS
 > </div>
-> 
+>
 > <div id="_mcePaste">
 >   Trace           = No
 > </div>
-> 
+>
 > <div id="_mcePaste">
 >   Database        = EIRAS
 > </div>
-> 
+>
 > <div id="_mcePaste">
 >   Server          = 192.168.100.50
 > </div>
-> 
+>
 > <div id="_mcePaste">
 >   Port            = 1433
 > </div>
@@ -92,7 +85,7 @@ Com o seguinte conteúdo:
 > <div>
 >   odbcinst -i -d -f /etc/freetds/tds.driver.template
 > </div>
-> 
+>
 > <div>
 >   odbcinst -i -s -f /etc/freetds/tds.dsn.template
 > </div>
@@ -112,7 +105,7 @@ Com o seguinte conteúdo:
 > <div>
 >   vim  /etc/php5/apache2/php.ini
 > </div>
-> 
+>
 > <div>
 >   <ul>
 >     <li>
