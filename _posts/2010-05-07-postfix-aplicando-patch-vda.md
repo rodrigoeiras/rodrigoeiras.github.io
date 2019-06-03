@@ -2,15 +2,8 @@
 id: 115
 title: 'Postfix &#8211; Aplicando Patch &#8220;VDA&#8221;'
 date: 2010-05-07T16:38:46-03:00
-author: @rsveiras
-layout: post
-guid: http://www.rodrigoeiras.eti.br/?p=115
+author: Rodrigo Eiras
 permalink: /2010/05/07/postfix-aplicando-patch-vda/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
 categories:
   - Geral
   - Linux
@@ -44,9 +37,9 @@ Se sua arquitetura é x64, baixe também o patch abaixo:
 Entre no diretório onde esta o &#8220;source&#8221; do postfix e aplique o patch vda, e em seguida se for o seu caso, aplique o patch x64:
 
 > cd /usr/src/postfix-2.5.5
-> 
+>
 > patch -p1 < /usr/src/postfix-2.5.5-vda-ng.patch.gz
-> 
+>
 > (Opcional x64): patch -p1 < /usr/src/postfix-2.5.5-vda-ng-64bit.patch.gz
 
 Os patchs estão instalados.
@@ -58,7 +51,7 @@ P.S.: Primeiro, é  necessário resolver essas dependências para a criação d
 > <div id="_mcePaste">
 >   apt-get install build-essential
 > </div>
-> 
+>
 > <div>
 >   apt-get install debhelper po-debconf lsb-release libdb-dev libldap2-dev libpcre3-dev libmysqlclient15-dev libmysqlclient14-dev libssl-dev libsasl2-dev libpq-dev libcdb-dev tinycdb hardening-wrapperapt-get install debhelper po-debconf lsb-release libdb-dev libldap2-dev libpcre3-dev libmysqlclient15-dev libmysqlclient14-dev libssl-dev libsasl2-dev libpq-dev libcdb-dev tinycdb hardening-wrapper
 > </div>
@@ -70,7 +63,7 @@ P.S.: Primeiro, é  necessário resolver essas dependências para a criação d
 > <div>
 >   cd /usr/src/postfix-2.5.5
 > </div>
-> 
+>
 > <div>
 >   dpkg-buildpackage
 > </div>
