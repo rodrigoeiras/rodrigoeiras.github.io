@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Teclado americano no Linux Mint
 
@@ -39,4 +39,3 @@ Por último, adicione os módulos no arquivo /etc/environment para que possam se
 
 
 Feito isso, basta salvar e reiniciar e tudo estará como deve ser.
-
