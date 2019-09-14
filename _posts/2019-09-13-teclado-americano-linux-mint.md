@@ -20,7 +20,7 @@ Comece editando os arquivos abaixo:
 Nos arquivos acima, procure por cedilla e Cedilla e adiciona ao fim da linha :en
 Exemplo abaixo:
 
-__"cedilla" "Cedilla" "gtk30" "/usr/share/locale" "az:ca:co:fr:gv:oc:pt:sq:tr:wa:en"
+_"cedilla" "Cedilla" "gtk30" "/usr/share/locale" "az:ca:co:fr:gv:oc:pt:sq:tr:wa:en"_
 
 Faça isso nos dois arquivos acima, no GTK 2 e no GTK 3.
 
