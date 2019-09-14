@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Teclado americano no Linux Mint
+## Aprenda a habilitar cedilha no Linux Mint. Apesar de parecer simples, a coisa não é bem documentada.
 
 Você já deve ter reparado que é bem chato utilizar um teclado americano no Linux Mint caso seja necessário utilizar cedilha. Na verdade, o teclado e o layout existem no linux mint porém o módulo de cedilla vem desabilitado por padrão. Sim, thats sucks.
 
