@@ -60,8 +60,7 @@ plugins:
 author:
   name   : "Rodrigo <u>Eiras</u>"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Big Data, Analytics, Networks. <br/>STEM Enthusiast!  
-  <b>(Also, love beers :)</b>"
+  bio    : "Big Data, Analytics, Networks. <br/>STEM Enthusiast! <br/><b>(Also, love beers :)</b>"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
