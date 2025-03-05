@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Rodrigo Eiras"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/1697816353867.jpeg"
   bio              : "Solutions Architect"
   location         : "Rio de Janeiro, Brazil"
   email            : "rodrigo@eiras.io"
