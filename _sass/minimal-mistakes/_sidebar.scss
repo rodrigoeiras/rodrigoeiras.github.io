@@ -176,6 +176,7 @@
 }
 
 .author__bio {
+  text-align: justify;
   margin: 0;
 
   @include breakpoint($large) {
