@@ -3,3 +3,8 @@ description: "#datascience #cloudcomputing #artificialintelligence #spotfire #os
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
