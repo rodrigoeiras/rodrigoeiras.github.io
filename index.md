@@ -1,12 +1,4 @@
----
-layout: default
-title: "Rodrigo S. V. Eiras"
----
 
-<!-- Hero simples com foto e headline -->
-<p align="center">
-  <img src="assets/img/rodrigo.jpg" alt="Rodrigo Eiras" style="max-width: 160px; border-radius: 50%; margin-bottom: 10px;">
-</p>
 
 <div align="center" style="margin: 20px 0;">
   <a href="assets/cv.pdf" class="btn">📄 Meu CV</a>
