@@ -1,123 +1,73 @@
 ---
 layout: default
+title: "Rodrigo S. V. Eiras"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Hero simples com foto e headline -->
+<p align="center">
+  <img src="assets/img/rodrigo.jpg" alt="Rodrigo Eiras" style="max-width: 160px; border-radius: 50%; margin-bottom: 10px;">
+</p>
 
-[Link to another page](./another-page.html).
+<h1 align="center">Data, Cloud & AI Solution Consultant</h1>
+<p align="center">
+  #datascience · #cloudcomputing · #ai · #spotfire · #osdu · #azure · #aws
+</p>
 
-There should be whitespace between paragraphs.
+<div align="center" style="margin: 20px 0;">
+  <a href="assets/cv.pdf" class="btn">📄 Meu CV</a>
+  <a href="https://www.linkedin.com/in/seu-perfil" class="btn">💼 LinkedIn</a>
+  <a href="https://github.com/seu-usuario" class="btn">💻 GitHub</a>
+  <a href="mailto:seuemail@exemplo.com" class="btn btn-ghost">✉️ Fale comigo</a>
+</div>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## Sobre mim
+Especialista em **Data Science, Cloud Computing e Inteligência Artificial**, com ~20 anos de atuação como **Analista de Sistemas** e **Consultor de Soluções**. Experiência em TIBCO Spotfire, TIBCO Data Virtualization, OSDU, Azure, AWS, RStudio/Posit e SQL Server. Atuação com clientes como **Petrobras, Shell, Honda, Bayer, Ultragaz, Ouro Preto O&G, FAPES/BNDES**, entre outros.  
+Foco em **pré-vendas técnica**, **desenvolvimento de soluções**, **arquitetura de dados** e **data governance**.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> *"Transformando dados em decisões estratégicas."*
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Projetos em destaque
+- **Chatbot ANP Data** — Pipeline de **indexação de bases públicas da ANP** para **Q&A com IA generativa** (RAG + embeddings).  
+  _Stack:_ Python, Azure/AWS, Mongo/Vector DB.  
+  **[Ver resumo](#)**
 
-### Header 3
+- **OSDU + Analytics em Nuvem** — Integração de metadados do **OSDU** com serviços gerenciados em cloud para acelerar descoberta de dados e insights.  
+  _Stack:_ OSDU, AWS/Azure, Spark, Lakehouse.  
+  **[Ver resumo](#)**
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- **Spotfire Modernization** — Health check, upgrade e hardening de **TIBCO Spotfire 14** com melhores práticas de governança e performance.  
+  _Stack:_ Spotfire, SQL Server, Linux/Windows.  
+  **[Ver resumo](#)**
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## Como posso ajudar
+- **Diagnóstico & Health Check** de plataformas de Analytics (Spotfire/Posit)
+- **Arquitetura de Dados e Governança** (catálogo, linhagem, qualidade)
+- **RAG/GenAI aplicado ao negócio** (Q&A, assistentes, automações)
+- **Integração OSDU** com plataformas de dados corporativas
+- **Workshops & Pré-vendas técnica** (PoCs, ROI, roadmaps)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+## Publicações & Conteúdo
+- OSDU + GenAI: extraindo insights de metadados _(post curto)_ — **[Ler](#)**
+- Guia prático: URLs para operação do **Posit Workbench/Connect/PPM** — **[Ler](#)**
+- Template de **Health Check Spotfire** — **[Ler](#)**
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## Contato
+- 📧 **E-mail:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)  
+- 💻 **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<p align="center" style="opacity:.8">
+© 2025 Rodrigo S. V. Eiras — Powered by GitHub Pages
+</p>
