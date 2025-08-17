@@ -1,11 +1,8 @@
----
-layout: default
-title: "Rodrigo Silva Vilela Eiras"
----
+
 
 <!-- Hero section with profile picture -->
 <p align="center">
-  <img src="assets/img/rodrigo.jpg" alt="Rodrigo Eiras" style="max-width: 160px; border-radius: 50%; margin-bottom: 10px;">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGM8ejtUlhGiA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697816353867?e=1758153600&v=beta&t=if6uIV4menh5y7emfjkQXwCM0LjTmYzX4VOHSs4gAiw" alt="Rodrigo Eiras" style="max-width: 160px; border-radius: 50%; margin-bottom: 10px;">
 </p>
 
 <h1 align="center">CTO | Data, Cloud & AI Solution Consultant</h1>
