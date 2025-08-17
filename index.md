@@ -8,11 +8,6 @@ title: "Rodrigo S. V. Eiras"
   <img src="assets/img/rodrigo.jpg" alt="Rodrigo Eiras" style="max-width: 160px; border-radius: 50%; margin-bottom: 10px;">
 </p>
 
-<h1 align="center">Data, Cloud & AI Solution Consultant</h1>
-<p align="center">
-  #datascience · #cloudcomputing · #ai · #spotfire · #osdu · #azure · #aws
-</p>
-
 <div align="center" style="margin: 20px 0;">
   <a href="assets/cv.pdf" class="btn">📄 Meu CV</a>
   <a href="https://www.linkedin.com/in/seu-perfil" class="btn">💼 LinkedIn</a>
