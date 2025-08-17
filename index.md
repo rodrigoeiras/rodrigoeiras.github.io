@@ -66,7 +66,7 @@ My focus areas include **pre-sales, business development, data architecture cons
 ---
 
 ## Contact
-- 📧 **Email:** [rodrigo.eiras@iesbrazil.com](mailto:rodrigo.eiras@iesbrazil.com)  
+- 📧 **Email:** [rodrigo at eiras.io](mailto:rodrigo@eiras.io)  
 - 🔗 **LinkedIn:** [linkedin.com/in/rodrigo-eiras](https://www.linkedin.com/in/rodrigo-eiras)  
 - 💻 **GitHub:** [github.com/rodrigoeiras](https://github.com/rodrigoeiras)  
 
