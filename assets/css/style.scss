@@ -1,4 +1,75 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
+
+/* Paleta e tipografia */
+:root {
+  --brand: #004466;  /* azul petróleo */
+  --accent: #ff6600; /* laranja CTA */
+  --bg: #f7f9fc;     /* fundo leve */
+}
+
+body {
+  background: var(--bg);
+}
+
+/* Header padrão do Cayman */
+.page-header {
+  background-color: var(--brand);
+}
+
+/* Conteúdo principal */
+.main-content {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+}
+
+/* Links */
+a {
+  color: var(--accent);
+}
+a:hover, a:focus {
+  text-decoration: none;
+  opacity: 0.9;
+}
+
+/* Botões de ação */
+.btn {
+  display: inline-block;
+  padding: 10px 18px;
+  margin: 4px;
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff !important;
+  font-weight: 600;
+  text-decoration: none;
+  border: 2px solid var(--accent);
+  transition: transform .05s ease-in-out, box-shadow .2s ease;
+}
+.btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px rgba(0,0,0,.12);
+}
+.btn-ghost {
+  background: transparent;
+  color: var(--accent) !important;
+  border-color: var(--accent);
+}
+
+/* Separadores */
+hr {
+  border-color: rgba(0,0,0,.08);
+}
+
+/* Imagens responsivas */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Ajuste de títulos centralizados no hero */
+h1[align="center"] {
+  margin-top: 6px;
+  margin-bottom: 0;
+}
