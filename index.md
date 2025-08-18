@@ -12,9 +12,9 @@
 
 <div align="center" style="margin: 20px 0;">
   <a href="assets/cv.pdf" class="btn">📄 Download CV</a>
-  <a href="https://www.linkedin.com/in/rodrigo-eiras" class="btn">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rodrigoeiras" class="btn">💼 LinkedIn</a>
   <a href="https://github.com/rodrigoeiras" class="btn">💻 GitHub</a>
-  <a href="mailto:rodrigo.eiras@iesbrazil.com" class="btn btn-ghost">✉️ Contact Me</a>
+  <a href="mailto:rodrigo@eiras.io" class="btn btn-ghost">✉️ Contact Me</a>
 </div>
 
 ---
@@ -64,7 +64,7 @@ My focus areas include **pre-sales, business development, data architecture cons
 
 ## Contact
 - 📧 **Email:** [rodrigo at eiras.io](mailto:rodrigo@eiras.io)  
-- 🔗 **LinkedIn:** [linkedin.com/in/rodrigo-eiras](https://www.linkedin.com/in/rodrigo-eiras)  
+- 🔗 **LinkedIn:** [linkedin.com/in/rodrigo-eiras](https://www.linkedin.com/in/rodrigoeiras)  
 - 💻 **GitHub:** [github.com/rodrigoeiras](https://github.com/rodrigoeiras)  
 
 ---
